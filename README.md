@@ -1,7 +1,3 @@
-The following code demonstrates how to use the  R script.
-
-Lines starting with # are simple comments, lines starting with #> are things printed in the output.
-
 # read the R script
 # replace the "path/to/file" with the directory you save the file into
 # or you can read the file directly from the web
