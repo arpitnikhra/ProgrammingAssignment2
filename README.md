@@ -1,4 +1,4 @@
-he following code demonstrates how to use the  R script.
+The following code demonstrates how to use the  R script.
 
 Lines starting with # are simple comments, lines starting with #> are things printed in the output.
 
